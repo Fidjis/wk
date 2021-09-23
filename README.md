@@ -1,16 +1,11 @@
-# wk
+# Projeto WK
 
-A new Flutter project.
+  APP simples para cadastro e manutenção de pessoas
+  
+  <img src="https://user-images.githubusercontent.com/19561046/134565871-67d672e8-4a0d-48d6-8985-496e9944bee9.png" width="300">
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+  Para o desenvolvimento foi utilizado com Flutter com Clean Architecture, escolhi SQLlite em vez de backend em JAVA e PostgreSQL, 
+principalmente devido ao tempo de desenvolvimento e pouca familiaridade. E por fim, para gerenciamento utilizei GetX.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
